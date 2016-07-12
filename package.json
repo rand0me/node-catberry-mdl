@@ -1,6 +1,6 @@
 {
   "name": "catberry-mdl",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Google Material Desing Lite javascript connector for Catberry framework",
   "homepage": "https://github.com/rand0me/node-catberry-mdl",
   "author": {
