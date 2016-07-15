@@ -23,9 +23,9 @@ ISC © [rand0me](https://rand0me.github.io)
 [Catberry]: https://github.com/catberry/catberry
 [npm-image]: https://badge.fury.io/js/catberry-mdl.svg
 [npm-url]: https://npmjs.org/package/catberry-mdl
-[travis-image]: https://travis-ci.org/rand0me/catberry-mdl.svg?branch=master
-[travis-url]: https://travis-ci.org/rand0me/catberry-mdl
-[daviddm-image]: https://david-dm.org/rand0me/catberry-mdl.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/rand0me/catberry-mdl
-[coveralls-image]: https://coveralls.io/repos/rand0me/catberry-mdl/badge.svg
-[coveralls-url]: https://coveralls.io/r/rand0me/catberry-mdl
+[travis-image]: https://travis-ci.org/rand0me/node-catberry-mdl.svg?branch=master
+[travis-url]: https://travis-ci.org/rand0me/node-catberry-mdl
+[daviddm-image]: https://david-dm.org/rand0me/node-catberry-mdl.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/rand0me/node-catberry-mdl
+[coveralls-image]: https://coveralls.io/repos/rand0me/node-catberry-mdl/badge.svg
+[coveralls-url]: https://coveralls.io/r/rand0me/node-catberry-mdl
